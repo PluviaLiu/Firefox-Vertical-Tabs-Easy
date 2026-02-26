@@ -1,4 +1,4 @@
-# Firefox-Vertical-Tabs-Easy 火狐浏览器 Mac 极简垂直标签页配置
+# Firefox-Vertical-Tabs-Easy 火狐浏览器 极简标签页配置
 此工具可以帮你：一键隐藏 Firefox 顶部标签栏，书签页，设置垂直侧边栏。适配mac的firefox应用
 
 你是否遇到过这样的困扰？Firefox顶部标签页太多，同时还有侧边栏，上滑三个点就出来了，点来点去的时候不方便到极点...

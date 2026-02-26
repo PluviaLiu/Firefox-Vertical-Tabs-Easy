@@ -3,32 +3,39 @@
   visibility: collapse !important;
 }
 
-/* --- 2. 彻底隐藏书签栏 --- */
+/* --- 2. 隐藏书签栏 --- */
 #PersonalToolbar {
   visibility: collapse !important;
 }
 
-/* --- 3. 隐藏侧边栏顶部的 "Sidebery" 标题文字 --- */
+/* --- 3. 隐藏侧边栏 Sidebery 标题 --- */
 #sidebar-header {
   display: none !important;
 }
 
-/* --- 4. 适配 Mac 红绿灯按钮 (三个点) --- */
-/* 让工具栏自动下移一点，避免遮挡 Mac 的关闭/最小化按钮 */
+/* --- 4. 核心：强制地址栏永久显示 --- */
 #nav-bar {
-  margin-top: 0px !important;
-  padding-top: 5px !important; /* 如果觉得三个点太挤，可以加大这个数字 */
-  padding-left: 75px !important; /* 为红绿灯留出左侧空间 */
+  /* 确保它在任何情况下都不被隐藏 */
+  visibility: visible !important;
+  opacity: 1 !important;
+  position: relative !important;
+  
+  /* 布局微调：给红绿灯留位，并保持高度 */
+  padding-top: 4px !important; 
+  padding-bottom: 4px !important;
+  margin-left: 0px !important;
+  
+  /* 这里的背景颜色可以根据你的主题调整，确保它不透明 */
+  background-color: var(--toolbar-bgcolor) !important;
 }
 
-/* --- 5. 极致极简：地址栏自动隐藏 (可选，如果不需要请删除下方代码) --- */
-/* 只有鼠标移动到顶部时才显示地址栏 */
-/*
-#nav-bar {
-  margin-top: -40px !important;
-  transition: margin-top 0.2s ease-in-out !important;
-}
-#navigator-toolbox:hover #nav-bar {
+/* --- 5. 防止全屏时地址栏自动滑走 --- */
+#navigator-toolbox {
+  transition: none !important; /* 关掉动画，不让它滑来滑去 */
   margin-top: 0 !important;
 }
-*/
+
+/* --- 6. 如果你是 Mac 全屏模式，强制工具栏不隐藏 --- */
+#TabsToolbar, #sidebar-header {
+  margin-top: 0 !important;
+}

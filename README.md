@@ -20,7 +20,7 @@
 其他小亮点：
 
 | 可选择点击左侧按钮，进行标签页管理 | 悬停鼠标可展示缩略图 |
-| :: | :---: |
+| :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/f899b7d8-32cb-4601-be0f-d96721506f95" width="400"> | <img src="https://github.com/user-attachments/assets/006c830f-3a1d-42d5-afce-085e6457009d" width="400"> |
 
 

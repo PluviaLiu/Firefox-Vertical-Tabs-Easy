@@ -4,6 +4,11 @@
 <img width="2934" height="300" alt="6ae6d4dce4243e39492f2ac79fd1cd03" src="https://github.com/user-attachments/assets/c0cc810e-45a6-4dc8-bdcf-5d8521da3a98" />
 
 这个小工具能帮你彻底隐藏 Firefox 顶部臃肿的标签栏和书签栏，配合侧边栏插件（如 Sidebery），让你的浏览器瞬间变成类似 Arc 的极致极简风格！
+桌面效果：
+| 桌面效果 | 全屏效果 |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/b12cebac-d3bc-4317-afd2-1e8b32c7b87e" width="400"> | <img src="https://github.com/user-attachments/assets/2436c0b2-3c96-43e7-8c74-995988d5a2a5" width="400"> |
+
 
 ## ✨ 功能亮点
 - **干掉顶栏**：彻底隐藏顶部标签页，增加纵向视野。

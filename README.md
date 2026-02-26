@@ -13,7 +13,7 @@
 
 
 ## ✨ 功能亮点
-- **干掉顶栏**：彻底隐藏顶部标签页，增加纵向视野。
+- **干掉顶栏**：彻底隐藏顶部标签页，增加纵向视野。同时深度固定地址栏，确保任何情况下网页输入框都始终可见。
 - **Mac 专属优化**：完美避开左上角“红绿灯”控制按钮，不重叠。
 - **无痕书签**：隐藏烦人的书签lan，还你清爽界面。
 - **一键部署**：简单的复制粘贴即可完成。
@@ -21,7 +21,7 @@
 
 | 可选择点击左侧按钮，进行标签页管理 | 悬停鼠标可展示缩略图 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/f899b7d8-32cb-4601-be0f-d96721506f95" width="400"> | <img src="https://github.com/user-attachments/assets/006c830f-3a1d-42d5-afce-085e6457009d" width="400"> |
+| <img src="https://github.com/user-attachments/assets/f899b7d8-32cb-4601-be0f-d96721506f95" width="400"> | <img src="https://github.com/user-attachments/assets/aec862e9-baa8-42be-972d-fa679b3263cb" width="400"> |
 
 
 ## 🚀 3步快速安装

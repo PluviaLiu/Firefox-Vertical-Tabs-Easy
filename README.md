@@ -3,7 +3,8 @@
 
 你是否遇到过这样的困扰？Firefox顶部标签页太多，同时还有侧边栏，上滑三个点就出来了，点来点去的时候不方便到极点...
 
-<img width="2934" height="300" alt="6ae6d4dce4243e39492f2ac79fd1cd03" src="https://github.com/user-attachments/assets/c0cc810e-45a6-4dc8-bdcf-5d8521da3a98" />
+<img width="688" height="211" alt="image" src="https://github.com/user-attachments/assets/8aa6d5d7-c5ed-4bdf-8b82-ed7a5c135668" />
+
 
 这个小工具能帮你彻底隐藏 Firefox 顶部臃肿的标签栏和书签栏，配合侧边栏插件（如 Sidebery），让你的浏览器瞬间变成类似 Arc 的极致极简风格！
 

@@ -17,6 +17,12 @@
 - **Mac 专属优化**：完美避开左上角“红绿灯”控制按钮，不重叠。
 - **无痕书签**：隐藏烦人的书签lan，还你清爽界面。
 - **一键部署**：简单的复制粘贴即可完成。
+其他小亮点：
+
+| 可选择点击左侧按钮，进行标签页管理 | 悬停鼠标可展示缩略图 |
+| :: | :---: |
+| <img src="https://github.com/user-attachments/assets/f899b7d8-32cb-4601-be0f-d96721506f95" width="400"> | <img src="https://github.com/user-attachments/assets/006c830f-3a1d-42d5-afce-085e6457009d" width="400"> |
+
 
 ## 🚀 3步快速安装
 
